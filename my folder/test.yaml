@@ -1,10 +1,12 @@
 ---
-- name 
-  hosts:all
+- name:
+  host:all
   vars:
-   
-  tasks
+  vars_int:dasf
+  tasks:
 
-- name
+- name:
+  host:all
+  tasks:
   
 ---
